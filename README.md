@@ -10,3 +10,7 @@ Problem Statement: Create a Data class in PHP to fetch the required data which i
 
 Restaurant JSON File:
 https://drive.google.com/file/d/1oPfOu1cB585FheJ20HWPZIr0PPMMLaKY/view?usp=sharing
+
+Assignment 4 Website Link:
+https://wtasgn04-harshal-022-restaurant.000webhostapp.com/
+
